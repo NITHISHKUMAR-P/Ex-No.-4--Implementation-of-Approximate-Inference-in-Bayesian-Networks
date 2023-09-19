@@ -27,7 +27,7 @@ To construct a python program to implement approximate inference using Gibbs Sam
 ### Step 6: Approximate Probability Calculation:<br>
 (i) Specify the variable for which you want to calculate the approximate probabilities (query_variable).<br>
 (ii)Use .value_counts(normalize=True) on the samples of the query_variable to calculate approximate probabilities.<br>
-### Step 7:Print Approximate Probabilities:
+### Step 7: Print Approximate Probabilities:
 (i) Print the calculated approximate probabilities for the specified query_variable.<br>
 
 ## Program :
@@ -119,6 +119,4 @@ print(query_result)
 ![appo](https://github.com/JEEVAABI/Ex-No.-4--Implementation-of-Approximate-Inference-in-Bayesian-Networks/assets/93427098/4b778f59-091b-4f84-a46d-148af0583492)
 
 ## Result : 
-Thus, an Approximate method of interference computation is implemented using Gibbs Sampling in Python
-
-
+Thus, an Approximate method of interference computation is implemented using Gibbs Sampling in Python.
